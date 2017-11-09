@@ -1,3 +1,3 @@
-# Example 1: Puppet + Vagrant
+# Example 1
 
-This is a basic example integrating Vagrant and Puppet.
+Demonstrates Resource ordering using `before`, `subscribe` directives.
